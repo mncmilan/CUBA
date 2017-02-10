@@ -23,7 +23,17 @@ The code was tested with the following technologies and setup.
 * Scipy 0.18.1
 * Scikit-learn 0.18.1
 
+## Repository
+The public repository is located here:
+
+git://github.com/mncmilan/CUBA.git
+
 ## License
 This software is published under the terms of the Creative Commons license.
 
 https://creativecommons.org/
+
+## Author
+Mónica Milán (@mncmilan)
+
+mncmilan@gmail.com
