@@ -1,4 +1,4 @@
-# CUBA - Control for UAS Based in Accelerometers
+# CUBA - Control for UAS Based on Accelerometers
 This is a flight control system for drones based on voluntary hand movements captured by using accelerometers. The resulting system is much more intuitive than conventional means, as well as it allows a high manoeuvrability. The software is composed by three clearly different parts: 
 
 * Acceleration-data acquisition
