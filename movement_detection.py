@@ -1,4 +1,8 @@
-# _____________________________________________ TWO MODES __________________________________________________ #
+# movement_detection.py
+# Mónica Milán (@mncmilan)
+# mncmilan@gmail.com
+# http://steelhummingbird.blogspot.com.es/
+
 
 import time
 from libs import communications, filterings, datalog
